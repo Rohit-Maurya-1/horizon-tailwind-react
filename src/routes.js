@@ -40,7 +40,7 @@ const routes = [
     layout: "/admin",
     icon: <MdBarChart className="h-6 w-6" />,
     path: "data-tables",
-    component: <DataTables />,
+    component: <DataTables/>,
   },
   {
     name: "Profile",
